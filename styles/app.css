@@ -1,0 +1,7 @@
+.bg-bastille {
+    background-color: rgb(7, 73, 148)
+}
+
+.active {
+    color: red !important;
+}
